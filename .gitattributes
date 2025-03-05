@@ -1,2 +1,4 @@
 *.data filter=lfs diff=lfs merge=lfs -text
+*.data.gz filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
 Build/Build.data.gz filter=lfs diff=lfs merge=lfs -text
